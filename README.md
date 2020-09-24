@@ -34,5 +34,5 @@ IX Creating a Flask application for the same in which a user can upload an image
 The repository consists of the Jupyter Notebook files from the Udacity classroom, in both formats: dog_app.html and dog_app.ipynb.and test_images file contain 9 images to test the Algorithm
 
 # Results
-The main findings of the code can be found at the post available [here](https://medium.com/@eebtehal.101/stackoverflow-survey-2017-4c6ddbc1e34a) .
+The main findings of the code can be found at the post available [here](https://medium.com/@eebtehal.101/dog-breed-classification-cdcfb63515d9) .
 
